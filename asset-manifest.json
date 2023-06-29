@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dexters/static/css/main.d6ca4bd2.css",
+    "main.js": "/Dexters/static/js/main.996b207c.js",
+    "static/js/787.1bbea68f.chunk.js": "/Dexters/static/js/787.1bbea68f.chunk.js",
+    "index.html": "/Dexters/index.html",
+    "main.d6ca4bd2.css.map": "/Dexters/static/css/main.d6ca4bd2.css.map",
+    "main.996b207c.js.map": "/Dexters/static/js/main.996b207c.js.map",
+    "787.1bbea68f.chunk.js.map": "/Dexters/static/js/787.1bbea68f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6ca4bd2.css",
+    "static/js/main.996b207c.js"
+  ]
+}

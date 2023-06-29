@@ -1,0 +1,64 @@
+.ime{
+    border: 1px solid black;
+    width: 25%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color:darksalmon;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 20px;
+   
+
+}
+
+.prezime{
+    border: 1px solid black;
+    width: 25%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color:darksalmon;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+
+.tel{
+    border: 1px solid black;
+    width: 25%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color:darksalmon;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+
+.poruka{
+    border: 1px solid black;
+    width: 25%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color:darksalmon;
+    border-radius: 15px;
+    padding: 10px;
+    
+}
+
+.send{
+  background-color:salmon;
+  width: 100px;
+  height: 50px;
+  color: black;
+  border-radius: 10px;
+ 
+  
+}
+ 
+.contact{
+    width: 100%;
+    text-align: center;
+}

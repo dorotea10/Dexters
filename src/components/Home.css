@@ -1,0 +1,79 @@
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.App {
+    display: inline-grid;
+    margin-top: 20px;
+    width: 40%;
+}
+
+.foodCard {
+    display: flex;
+    border: 1px black solid;
+    margin: 10px;
+    padding: 2px;
+    min-height: 280px;
+    min-width: 400px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+
+.btnAdd-hrana{
+    background-color: chocolate;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    cursor: pointer; 
+}
+.btnAdd-pica{
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+.btnAdd-dezerti{
+    background-color: palevioletred;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.home{
+    display: flex;
+    width: 100%;
+    background-color: antiquewhite;
+    
+}
+.meni{
+    display: flex;
+    width: 80%;
+}
+.hrana{
+    background-color:burlywood;
+    color:brown;
+
+}
+.pice{
+    background-color:skyblue;
+    color: rgb(0, 87, 145)
+
+}
+.dezerti{
+    background-color: pink;
+    color: rgb(85, 12, 51);
+
+}
+.korpa{
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    width: 20%;
+    background-color:blanchedalmond;
+}
